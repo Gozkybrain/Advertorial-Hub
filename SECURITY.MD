@@ -64,7 +64,6 @@ The **Super Post Ads Page** allows users to select a post and automatically gene
 
 ---
 
-## Experimental Note
+## Security
 
-> ⚠️ This feature is currently in **experimental phase**. AI-generated ad strategies should only be used by users who understand social media marketing. Results may vary, and you should verify all recommendations before running ads.
-
+Industry Standard for securing API
