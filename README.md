@@ -1,4 +1,4 @@
-# Advertorial Hub: Fullstack Application with Next.js
+# Advertorial Hub: Fullstack Application with Next.jsx
 
 Advertorial Hub is a sleek and fully responsive fullstack application built with Next.js 14 using the App Router. It combines both frontend and backend into a single unified project, offering a modern platform where users can create, manage, and promote advertorial posts. The system provides user authentication, subscription plans, Paystack-powered payments, post and ad management, and an analytics dashboard, all under one integrated platform.
 
