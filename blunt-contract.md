@@ -14,7 +14,7 @@ Advertisement & Marketing Agency
 
 **Contract Type:** Full-Time Remote (Minimum 90-Day Contract)
 
-**Monthly Compensation:** NGN 100,000 (paid at end of every 30-day cycle)
+**Monthly Compensation:** NGN 110,000 (paid at end of every 30-day cycle)
 
 **Work Location:** Anambra State (Remote)
 
@@ -95,7 +95,7 @@ Upon completion of the 90-day minimum period, either party may choose to renew o
 
 ### 4.3 Compensation
 
-The Employee shall receive monthly compensation of One Hundred Thousand Naira (NGN 100,000), payable at the end of every completed 30-day work cycle. Payment shall be made via a mutually agreed method, confirmed in writing prior to or at the commencement of the contract.
+The Employee shall receive monthly compensation of One Hundred Thousand Naira (NGN 110,000), payable at the end of every completed 30-day work cycle. Payment shall be made via a mutually agreed method, confirmed in writing prior to or at the commencement of the contract.
 
 ### 4.4 Concurrent Employment
 
