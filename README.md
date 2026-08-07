@@ -33,7 +33,6 @@ Key capabilities include user authentication, secure data management, post creat
 
 - Admins can view all users, edit any profile, and delete accounts if needed.
 
-
 ### Post Management
 
 - Users can create posts describing their business, service, or project.
