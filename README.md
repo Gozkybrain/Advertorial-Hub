@@ -26,7 +26,6 @@ Key capabilities include user authentication, secure data management, post creat
 
 - Users can verify accounts via email links.
 
-
 ### User Data Management
 
 - User profiles store first and last names, email, profile picture, phone number, gender, plan information, posts count, and ads count.
