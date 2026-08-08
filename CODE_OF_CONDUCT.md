@@ -12,6 +12,7 @@
 ### Goal
 Build waitlist, onboard early creators and store owners, gather content inventory through creator team.
 
+
 ### Creator Team Setup
 
 | Detail | Value |
