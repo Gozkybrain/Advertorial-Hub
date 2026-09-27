@@ -1,5 +1,5 @@
 # ADVERTORIAL HUB
-Anambra State, Nigeria
+Anambra State, Nigeria.
 Advertisement & Marketing Agency
 
 ## Employee Contract, Job Description & Non-Disclosure Agreement
