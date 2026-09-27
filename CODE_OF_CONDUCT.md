@@ -1,4 +1,4 @@
-# Advertorial Hub — Activity Map
+# Advertorial Hub — Activity Map Breakdown
 
 **Pre-Launch Start:** June 20  
 **Launch Date:** July 20  
