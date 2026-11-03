@@ -46,7 +46,6 @@ Key capabilities include user authentication, secure data management, post creat
 
 - Analytics for posts are collected for insights on performance.
 
-
 ### Advertisement Management
 
 - Users can promote posts as ads to specific social media platforms.
