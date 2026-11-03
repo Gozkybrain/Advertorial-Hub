@@ -1,5 +1,6 @@
 # Super Post Ads Page
 
+
 ## Overview
 
 The **Super Post Ads Page** allows users to select a post and automatically generate a tailored ad strategy using AI. This feature is **experimental** and intended for users who understand social media advertising.  
