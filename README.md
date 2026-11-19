@@ -14,6 +14,7 @@ Key capabilities include user authentication, secure data management, post creat
 
 ---
 
+
 ## Core Features
 
 ### User Authentication
